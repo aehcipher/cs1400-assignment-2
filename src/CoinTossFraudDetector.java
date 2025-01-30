@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class CoinTossFraudDetector {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		System.out.print("Input file name (format: 'name.txt'): ");
+		System.out.print("Input a file name in the format: 'name.txt'): ");
 		Scanner scnr = new Scanner(System.in); //used to ask user for input
 		String fileName = scnr.next(); //user input for desired file will be stored here
 		
