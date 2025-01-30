@@ -1,0 +1,9 @@
+Solutions:
+
+Dice Fraud Detector
+- dice2.txt is fraudulent
+
+Coin Fraud Detector
+- coin2.txt is fraudulent
+- coin2.txt is fraudulent
+
